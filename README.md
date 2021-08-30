@@ -1,2 +1,2 @@
 # Finite-Element-Analysis
-This repository contain class material of Finite Analysis Analysis and python notebook for coding tutorials.
+This repository contain class material of Finite Element Analysis and python notebook for coding tutorials.
